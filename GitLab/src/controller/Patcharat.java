@@ -6,7 +6,7 @@ public class Patcharat {
 
 	public static void main(String[] args) {
 		JOptionPane.showMessageDialog(null, "Hello from Patcharat!!");
-		
+		JOptionPane.showMessageDialog(null, "My Second version from Patcharat.");
 
 	}
 
